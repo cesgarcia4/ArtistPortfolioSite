@@ -17,7 +17,6 @@ C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\ArtistPortfolioSite.RazorAss
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\scopedcss\bundle\ArtistPortfolioSite.styles.css
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\scopedcss\projectbundle\ArtistPortfolioSite.bundle.scp.css
-C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\compressed\9qcbqojxpj-b9sayid5wm.gz
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\compressed\phkwjm1pxo-61n19gt1b8.gz
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\compressed\a16qcpsztu-xtxxf3hu2r.gz
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\compressed\hm48a3pv45-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\refint\ArtistPortfolioSite.d
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\ArtistPortfolioSite.pdb
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\ArtistPortfolioSite.genruntimeconfig.cache
 C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\ref\ArtistPortfolioSite.dll
+C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\ArtistPortfolioSite.sourcelink.json
+C:\Users\cesar\ArtistPortfolioSite\obj\Debug\net9.0\compressed\9qcbqojxpj-2lj7ra8etn.gz
